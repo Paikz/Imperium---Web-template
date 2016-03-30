@@ -1,0 +1,8 @@
+.slideshow {
+    margin-top: 70px;
+}
+
+.navbar {display: block;background-color:#333;font-family:Verdana;padding:0.5em; margin-top:70px;}
+.navbar a {background-color:#999;color:#fff;padding:0.2em;text-decoration:none;}
+.navbar a:hover {background-color:#666;padding:0.5em 0.2em 0.5em 0.2em}
+.navbar .selected {background-color:#fff;padding:0.3em 0.2em 0.5em 0.2em;color:#333;}
